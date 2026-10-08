@@ -75,7 +75,7 @@ I'm continuously expanding my knowledge in:
 🚀 Cloud Deployment
 
   ____                  ____                      
-```text
+
   ____                      _____                               
  / __ \___  ___ ___  ______/ ___/___  __ _____ ______ ___       
 / /_/ / _ \/ -_) _ \/___/ _ \/ _ \/ // / __/ __/ -_/_ /_       
