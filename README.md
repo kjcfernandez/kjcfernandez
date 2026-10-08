@@ -1,37 +1,78 @@
-## Hi, nice to see you! 👋
-Welcome to my profile!
+## Hi, I'm Kelvin, nice to see you! 👋
 
-## ✨ About Me
+### Full Stack Developer · Web · APIs · Cloud
 
-I'm a Full Stack Developer based in 🇪🇸 Madrid, Spain, passionate about building interactive, high-performance applications and finding elegant solutions to complex real-world challenges. For me, development isn't just about writing code; it's a creative quest to take everyday friction, streamline processes, and transform ambitious ideas into functional digital platforms.
+I build modern digital applications focused on **performance, scalability and user experience**.
 
-My technical toolkit spans the entire stack, working extensively with **JavaScript (React)**, **Python**, **PHP**, and **SQL (PostgreSQL)**. Beyond core application logic, I enjoy diving into modern architecture and cloud environments. Currently, I'm deepening my expertise in **Cloud Computing with AWS and Microsoft Azure**, alongside integrations with services like Cloudflare and Stripe to build scalable, resilient, and secure systems.
-
-I thrive in collaborative environments where clear communication, adaptability, and proactive problem-solving drive success. Whether it's architecting clean RESTful APIs, designing intuitive UI/UX, or optimizing database queries, I always keep the end-user experience and business goals at the center of my work.
+My main focus is developing solutions from frontend to backend, integrating APIs, databases, cloud services and third-party platforms.
 
 ---
 
-### 🌐 Connect & Collaborate
+## 🚀 About Me
 
-* **Looking for a detailed breakdown of my experience?** Please find me on [LinkedIn](https://www.linkedin.com/in/kelvin-cunalema/) for my full career trajectory, education, and certifications.
-* **Want to start a conversation or discuss a project?** You can get in touch directly via email at [kelvin.cunalema@gmail.com](mailto:kelvin.cunalema@gmail.com) or connect with me on LinkedIn. I'm always open to discussing new opportunities, disruptive ideas, or just turning coffee into code together!
+I'm a **Full Stack Developer based in Madrid, Spain**, passionate about turning real-world problems into useful and scalable digital solutions.
 
-### Things I code with
+I enjoy working across the entire development lifecycle — from designing intuitive interfaces to building REST APIs, integrating databases and deploying applications to the cloud.
 
-<!-- Fila 1 -->
+I'm especially interested in:
+
+- 🌐 Modern web applications
+- 🔌 REST APIs & backend architecture
+- ☁️ Cloud computing & infrastructure
+- 💳 Third-party integrations & payment systems
+- 🐳 Docker & deployment
+- ⚡ Performance, scalability & optimization
+- 🧩 Problem solving and continuous learning
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/Github_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud_Platform-1A73E8?style=for-the-badge&logo=google-cloud&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-<!-- Fila 2 -->
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Brave](https://img.shields.io/badge/Brave_Browser-FB542B?style=for-the-badge&logo=brave&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Nodejs-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+### Backend
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### Database
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=databricks&logoColor=white)
+
+### Cloud & Infrastructure
+
+![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+### Integrations & Tools
+
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📚 Currently Learning
+
+I'm continuously expanding my knowledge in:
+
+```text
+☁️ Cloud Architecture
+🏗️ Scalable Application Architecture
+⚙️ CI/CD & DevOps
+🐳 Containerization
+🔐 Application Security
+🚀 Cloud Deployment
 
   ____                  ____                      
 ```text
